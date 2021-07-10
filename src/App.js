@@ -12,7 +12,7 @@ function App() {
         alt = "logo" / >
         <
         p >
-        djtcumay < code > conchoancut < /code> and save to reload. <
+        djtcumay < code > conchoancut < /code> cc tiến. <
         /p> <
         a className = "App-link"
         href = "https://reactjs.org"
